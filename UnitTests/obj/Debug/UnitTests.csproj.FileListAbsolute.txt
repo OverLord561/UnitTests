@@ -1,0 +1,6 @@
+D:\1\ApriorIT\UnitTests\UnitTests\bin\Debug\UnitTests.dll
+D:\1\ApriorIT\UnitTests\UnitTests\bin\Debug\UnitTests.pdb
+D:\1\ApriorIT\UnitTests\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\1\ApriorIT\UnitTests\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\1\ApriorIT\UnitTests\UnitTests\obj\Debug\UnitTests.dll
+D:\1\ApriorIT\UnitTests\UnitTests\obj\Debug\UnitTests.pdb
